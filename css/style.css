@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    width: 95%;
+    height: 100%;
+}
+
+div {
+    width: 200px;
+    height: 500px;
+    margin: auto;
+}
+
+.stylesInput {
+    margin-bottom: 20px;
+    background-color: rgb(81, 81, 81);
+    color: white;
+    font: 2em;
+    width: 166px;
+    height: 30px;
+}
+
+.customize {
+    background-color: rgb(81, 81, 81);
+    color: white;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 1.5em
+}
+
+.buttonGeral {
+    width: 40px;
+}
+
+.buttonApagar {
+    width: 128px;
+}
+
+.buttonZero {
+    width: 127px;
+}
